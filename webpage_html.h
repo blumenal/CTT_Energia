@@ -390,7 +390,7 @@ footer {
       📦 github.com/blumenal/CTT_Energia
     </a>
   </div>
-  <div style="margin-top: 10px; font-size: 0.8em;">Versão 2.0 · Licença MIT</div>
+  <div style="margin-top: 10px; font-size: 0.8em;">Versão 2.0 · Licença BSD 3-Clause</div>
 </footer>
 
 </div>

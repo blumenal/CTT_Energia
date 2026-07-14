@@ -1,6 +1,6 @@
 # ⚡ CTT — Controle de Temperatura para Transformadores
 
-![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
+![License: BSD 3-Clause](https://img.shields.io/badge/license-BSD_3--Clause-blue.svg)
 
 Sistema embarcado baseado em **ESP8266** para monitoramento elétrico (tensão, corrente, potência, frequência e fator de potência via sensor **PZEM-004T v3**) com **controle automático/manual de relé** e **estimativa de temperatura do enrolamento** de transformadores a óleo, tudo acessível por uma interface web própria criada pelo ESP em modo Access Point — sem depender de roteador ou internet.
 
@@ -167,7 +167,7 @@ Confirme que o PZEM está ligado nos pinos padrão do UART0 (GPIO1/GPIO3), **nã
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a **Licença MIT** — uma licença de código aberto permissiva, que permite uso, cópia, modificação e distribuição (inclusive em projetos comerciais), desde que o aviso de copyright original seja mantido. Foi escolhida por ser simples, amplamente compatível com bibliotecas de terceiros usadas aqui (ESPAsyncWebServer, PZEM004Tv30, ArduinoJson, todas MIT/LGPL-friendly) e por não impor restrições que atrapalhem quem quiser adaptar o projeto pro seu próprio transformador/hardware.
+Este projeto está licenciado sob a **Licença BSD 3-Clause** — uma licença de código aberto permissiva, que permite uso, cópia, modificação e distribuição (inclusive em projetos comerciais), desde que o aviso de copyright original seja mantido e que o nome do autor/colaboradores não seja usado para promover produtos derivados sem autorização prévia. É compatível com as bibliotecas de terceiros usadas aqui (ESPAsyncWebServer, PZEM004Tv30, ArduinoJson).
 
 Veja o arquivo [`LICENSE`](./LICENSE) para o texto completo.
 
